@@ -1,6 +1,6 @@
 import cv2
 import os
-#changgge
+#chaynggge
 tiflist = []
 Commonpath = str(os.path.dirname(os.path.abspath(__file__)))
 
